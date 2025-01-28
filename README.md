@@ -36,3 +36,8 @@ https://svgl.app/
 
 ## multilenguaje
 https://blogs.sajankumarv.com/multi-language-support-in-astro-60336784bc9f
+
+## generador image mockups
+https://shots.so/
+
+Recordar: Tipo browser, style safary dark, size y position 117, en frame usamos 16:9, en fondo, cosmic gradient segunda ilera el del medio.
